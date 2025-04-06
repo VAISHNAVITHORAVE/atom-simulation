@@ -1,6 +1,4 @@
 # atom-simulation
-A computer graphics mini project to simulate atom movement and structure.
-# Atom Simulation
 
 This is a Computer Graphics mini project that simulates the structure and movement of an atom using graphics programming. The project visually demonstrates the nucleus, electrons, and their orbits.
 
